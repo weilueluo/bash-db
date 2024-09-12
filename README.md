@@ -1,5 +1,5 @@
-# Bash DB
-(Probably) The simplest key-value store implemented in bash. Just for personal experiments...
+# Database Samples
+Simple database implementation for personal experimentation
 
 ## Acknowledgement
-This is originally from the book *Designing Data-Intensive Applications*.
+Ideas originally from the book *Designing Data-Intensive Applications*.
